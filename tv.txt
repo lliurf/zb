@@ -71,8 +71,9 @@ CCTV-4K超清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视资讯台,http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&amp;from=30&amp;hms_devid=1452,1481&amp;online=1580892610&amp;vqe=1
 凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-凤凰卫视中文台,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&amp;from=30&amp;hms_devid=1452,1451&amp;online=1580892662&amp;vqe=1
+凤凰卫视资讯台,http://liveali.ifeng.com/live/FHZX.flv
 凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
+凤凰卫视中文台,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&amp;from=30&amp;hms_devid=1452,1451&amp;online=1580892662&amp;vqe=1
 凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&amp;txTime=16f9470cacc
 翡翠台,http://hzyhjg.cc/cs/gat/fct.php
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
@@ -275,7 +276,7 @@ CIBN全电竞,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=194
 小品轮播,http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
 电影轮播,http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
 成龙电影,http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-徐峥电影【公众号：手机软件资源局】[1280*720],http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+徐峥电影,http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
 周润发电影,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
 刘德华电影,http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 李连杰电影,http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
@@ -885,10 +886,10 @@ CIBN全电竞,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=194
 哈哈炫动,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 卡酷少儿,http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
 FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
-金鹰卡通【公众号：手机软件资源局】[768*576],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
-哈哈卡通【公众号：手机软件资源局】[768*576],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
-优漫卡通【公众号：手机软件资源局】[768*576],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
-卡酷少儿【公众号：手机软件资源局】[768*576],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
+金鹰卡通[768*576],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
+哈哈卡通[768*576],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
+优漫卡通[768*576],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
+卡酷少儿[768*576],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
 小学美术1,https://charge.zuoyebang.cc/record_1bfb7b7aa8fb1806c8dd89b9bb7a710f.mp4
 小学英语早读1,https://charge.zuoyebang.cc/record_eb20b799102d964e89741c4c2f634443.mp4
 小学英语早读2,https://charge.zuoyebang.cc/record_9d8cc7c2734a19ee189901afdf7949ec.mp4
@@ -1258,8 +1259,6 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 高三历史3,https://charge.zuoyebang.cc/record_d9837dac651917b589dbe5014f6c0e8f.mp4
 高三政治1,https://charge.zuoyebang.cc/record_f7c40171c141526384b67de9865243b5.mp4
 高三政治2,https://charge.zuoyebang.cc/record_30d27e82efa968c5be825bab0efc909e.mp4
-凤凰卫视资讯台,http://liveali.ifeng.com/live/FHZX.flv
-凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
 腾讯一年级,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
 腾讯二年级,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
 腾讯三年级,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
