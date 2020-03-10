@@ -25,7 +25,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1,CCTV-6蓝光
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1,CCTV-7蓝光[1920*1080]
+#EXTINF:-1,CCTV-7蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 #EXTINF:-1,CCTV-7蓝光
 http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
@@ -67,6 +67,16 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 #EXTINF:-1,CCTV-4K超清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1,CCTV-4K
+http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1,CCTV-4K
+http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
+#EXTINF:-1,BesTV4k
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1,纯享4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1,爱上4K
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 #EXTINF:-1,纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1,北京卫视蓝光
