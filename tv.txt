@@ -11,7 +11,7 @@ CCTV-5蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u
 CCTV-5+蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 CCTV-5+蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-CCTV-7蓝光[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-7蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV-7蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 CCTV-8蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 CCTV-8蓝光,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
