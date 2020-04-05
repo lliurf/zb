@@ -54,7 +54,7 @@ NewTV世界搏击[蓝光],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88
 NewTV精品大剧[超清],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226291/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
 NewTV动作电影[超清],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
 NewTV家庭剧场[超清],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226290/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
-BesTV百视通#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226564/1.m3u8
+BesTV百视通,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226564/1.m3u8
 电影[蓝光],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
 电视剧[蓝光],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
 中国功夫[蓝光],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
